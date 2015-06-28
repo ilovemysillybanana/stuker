@@ -1,7 +1,13 @@
 source 'https://rubygems.org'
 
+
+#these are all the things I installed myself
 #install bootstrap
 gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootstrap-rails.git'
+#install font awesome
+gem 'font-awesome-rails'
+#end of installed gems
+
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.1'
