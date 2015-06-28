@@ -6,6 +6,8 @@ source 'https://rubygems.org'
 gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootstrap-rails.git'
 #install font awesome
 gem 'font-awesome-rails'
+#install simple form
+gem 'simple_form'
 #end of installed gems
 
 
