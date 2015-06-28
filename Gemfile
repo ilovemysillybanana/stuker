@@ -8,6 +8,8 @@ gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootst
 gem 'font-awesome-rails'
 #install simple form
 gem 'simple_form'
+#install devise
+gem 'devise'
 #end of installed gems
 
 
